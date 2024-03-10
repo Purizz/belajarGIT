@@ -10,3 +10,11 @@ Daftar tugas / branch
 7. Tugas-finalProject
 Daftar perintah GiT
 …
+git branch nama_branch
+git checkout nama_branch
+git add nama_file
+git add .
+git commit -m "Pesan commit"
+git checkout main
+git merge nama_branch
+git push
